@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832737633705",
+    "firebase_url": "https://service-adjustment-app-ca.firebaseio.com",
+    "project_id": "service-adjustment-app-ca",
+    "storage_bucket": "service-adjustment-app-ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832737633705:android:0585f8cfc147e57b05d0b8",
+        "android_client_info": {
+          "package_name": "com.Company.ServiceAdjustmentApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832737633705-pjb79msjin17uauoa8gha3b52b1dsljf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHpipfCwm194enbezV84NCldFsHfycVC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832737633705-pjb79msjin17uauoa8gha3b52b1dsljf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
